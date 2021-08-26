@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notplus&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notplus&layout=compact&langs_count=10&hide=Jupyter%20Notebook,html,Hack,Visual%20Basic%20.Net)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=notplus&count_private=true&include_all_commits=true" alt="Weijia's github stats" />
+</a> &nbsp; &nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notplus&layout=compact&langs_count=8&hide=Jupyter%20Notebook,html,Hack,Visual%20Basic%20.Net" />
+</a>
